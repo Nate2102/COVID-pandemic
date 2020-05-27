@@ -1,0 +1,2 @@
+# COVID-pandemic
+ For assignments.
